@@ -285,6 +285,7 @@
             { "trigger": "Floor()", "contents": "Floor(${1:Number})" },
             { "trigger": "Format()", "contents": "Format(${1:FormatStr [}, ${2:Values...]})" },
             { "trigger": "Func()", "contents": "Func(${1:FunctionName})" },
+            { "trigger": "ObjBindMethod()", "contents": "ObjBindMethod(${1:Obj [}, ${2:Method]},  ${3:Params]})" },
             { "trigger": "GetKeyName()", "contents": "GetKeyName(${1:Key})" },
             { "trigger": "GetKeyVK()", "contents": "GetKeyVK(${1:Key})" },
             { "trigger": "GetKeySC()", "contents": "GetKeySC(${1:Key})" },
